@@ -22,4 +22,4 @@ python3 TrivyToWord.py archivo.json/archivo.txt
 ```
 
 ## Licencia
-[MIT](https://github.com/arejula27/TrivyToWord/blob/add-license-1/LICENSE)
+[MIT](https://github.com/Kapparron/TrivyToWord/blob/main/LICENSE)
